@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Livro Preço: " + livro.getPreco());
         System.out.println("Camiseta Preço: " + camiseta.getPreco());
         System.out.println("Sapato Preço: " + sapato.getPreco());
+        
     }
 }
     
